@@ -1,4 +1,6 @@
-microservicio.const.test = Este es una variable de prueba dev
+microservicio
+  :const
+    test: Este es una variable de prueba dev
 
 spring:
   datasource:
