@@ -1,1 +1,3 @@
-microservicio.const.test = Este es una variable de prueba default
+microservicio:
+  const:
+    test: Este es una variable de prueba dev

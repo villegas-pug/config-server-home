@@ -1,5 +1,5 @@
-microservicio
-  :const
+microservicio:
+  const:
     test: Este es una variable de prueba dev
 
 spring:
